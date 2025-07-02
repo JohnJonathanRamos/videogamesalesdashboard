@@ -14,7 +14,6 @@ In terms of revenue, the top-performing genres are the following:
 - Sports: $1.2 billion
 -	Action: $1.1 billion
 -	Shooter: $995.5 million
--	
 These figures reflect a strong consumer preference towards competitive and fast-paced genres.
 
 The PlayStation 2 (PS2) leads platform sales with $1.0 billion, followed by Xbox 360 and PlayStation 3 (PS3). This trend corresponds with the observed peak sales period during the mid-2000s to early 2010s, a time when these consoles were at the height of the gaming market.
@@ -39,8 +38,8 @@ Conduct an in-depth analysis into the potential factors such as the shift to dig
 4.	Apply Strategies in terms of Platforms
 Focus toward cross-platform development between players, and use technological trends to maintain player retention and interest.
 5.	Expand Regional Strategy
+While North America dominates the gaming market, significant opportunities exist in regions like Europe and Japan. Adapt marketing and localization strategies to meet the preferences of these regions.
 
 # Raw Dataset Used
-
-While North America dominates the gaming market, significant opportunities exist in regions like Europe and Japan. Adapt marketing and localization strategies to meet the preferences of these regions.
+<a href="https://github.com/JohnJonathanRamos/videogamesalesdashboard/blob/main/Video%20Game%20Sales%20Dataset.zip">Raw Dataset</a>
 
