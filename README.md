@@ -39,5 +39,8 @@ Conduct an in-depth analysis into the potential factors such as the shift to dig
 4.	Apply Strategies in terms of Platforms
 Focus toward cross-platform development between players, and use technological trends to maintain player retention and interest.
 5.	Expand Regional Strategy
+
+# Raw Dataset Used
+
 While North America dominates the gaming market, significant opportunities exist in regions like Europe and Japan. Adapt marketing and localization strategies to meet the preferences of these regions.
 
