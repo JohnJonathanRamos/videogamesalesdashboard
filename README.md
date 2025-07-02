@@ -1,4 +1,7 @@
 # Video Game Sales Dashboard
+
+![Video Game Sales Dashboard](https://github.com/user-attachments/assets/f47936f2-6a20-4455-9dc5-9d68fc466058)
+
 This dashboard project performs an end-to-end analysis of a comprehensive dataset containing over 64,000 video game titles. The dataset includes regional sales figures across North America, Europe, Japan, Africa, and other global markets.
 
 # Key Insights
